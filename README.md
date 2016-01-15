@@ -64,4 +64,4 @@ If `mode` is not specified for `--bunyan-format`, it defaults to `short`.
  [GELF]: https://www.graylog.org/resources/gelf/
  [docker-gelf]: https://docs.docker.com/engine/reference/logging/overview/#gelf-options
  [logstash-gelf]: https://www.elastic.co/guide/en/logstash/current/plugins-inputs-gelf.html
- [gelfcap]: https://github.com/building5/gelfcap.
+ [gelfcap]: https://github.com/building5/gelfcap

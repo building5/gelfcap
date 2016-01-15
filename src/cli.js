@@ -25,11 +25,7 @@ program.version(version)
 program.on('--help', () => {
   console.log(`Bunyan format modes:
 
-  short (default)
-  long
-  simple
-  json
-  bunyan
+  short (default), long, simple, json, bunyan
 
 Examples:
 
